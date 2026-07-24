@@ -1,9 +1,10 @@
 {
-  "version": "1.9.7",
+  "version": "1.9.8",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "76d3f36c17e0c5808dda3f6c9212607c02b7fbcb926fbba5ad2b465a717a46b5",
+  "sha256": "6639dd91c19c7f057f6fa5929f5a2612752cfc5aba44ea4ea201e9d0c96bf295",
   "mandatory": false,
   "notes": [
-    "Auto Update Online Test"
+    "AK CNC PRO 1.9.8",
+    "Kiểm thử cập nhật tự động trực tuyến từ phiên bản 1.9.7"
   ]
 }
