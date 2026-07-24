@@ -1,7 +1,7 @@
 {
   "version": "1.9.9",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "73f9c4b133a62be70550b49d42ba19e060ab6a90a4e7c61394a9b192252499c9",
+  "sha256": "649ed9922d0479389506437a64d1c74f85535506631ac18d17cb3e811566d78d",
   "mandatory": false,
   "notes": [
     "Sửa Auto Update tự kiểm tra khi khởi động SketchUp",
