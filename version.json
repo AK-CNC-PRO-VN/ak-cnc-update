@@ -1,9 +1,9 @@
 {
   "product": "AK CNC PRO",
-  "version": "1.9.4",
+  "version": "1.9.5",
   "mandatory": false,
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "605f9215f800ad399455a7d6580b876274ad83bc18bac0631a945410c56f588b",
+  "sha256": "628e65f1840f6239f66f7414dbd7b26a164065a9edffd5ea0e20d130a174120f",
   "notes": [
     "Thêm chức năng tự động kiểm tra cập nhật.",
     "Cải thiện độ ổn định của AK CNC PRO."
