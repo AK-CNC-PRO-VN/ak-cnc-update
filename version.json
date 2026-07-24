@@ -1,15 +1,13 @@
 {
-  "version": "1.9.5",
+  "version": "1.9.6",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "e7fd9339606482400f66aba0d16e077c02271c075917997d7ef9ed57ab292952",
+  "sha256": "7e11feaac898a1411041b444f32d7d4abcc8272a3f44ca9a36cd2b0309a082eb",
   "mandatory": false,
   "notes": [
-    "Hoàn thiện thanh tiến trình tải",
-    "Hiển thị dung lượng, tốc độ và thời gian còn lại",
-    "Bắt buộc kiểm tra SHA-256",
-    "Backup trước khi cài đặt",
-    "Rollback khi cài đặt thất bại",
-    "Ghi lịch sử cập nhật",
-    "Kiểm tra cập nhật theo chu kỳ 24 giờ"
+    "Thêm chức năng bỏ qua riêng một phiên bản cập nhật",
+    "Lưu đường dẫn backup vào trạng thái cập nhật",
+    "Tự rollback nếu phiên bản mới không được xác nhận sau khi khởi động lại",
+    "Thêm SHA-256 và dung lượng cho bản backup",
+    "Cải thiện nhật ký và trạng thái Auto Update"
   ]
 }
