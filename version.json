@@ -1,7 +1,7 @@
 {
   "version": "1.9.7",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "SHA256_THAT_CUA_FILE_1.9.7",
+  "sha256": "08b362bf962af05ee52efd2946c0e367506bda3db8b03766c308f208b1d4573f",
   "mandatory": false,
   "notes": [
     "Auto Update Online Test"
