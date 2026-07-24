@@ -1,13 +1,9 @@
 {
-  "version": "1.9.6",
+  "version": "1.9.7",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "7e11feaac898a1411041b444f32d7d4abcc8272a3f44ca9a36cd2b0309a082eb",
+  "sha256": "SHA256_THAT_CUA_FILE_1.9.7",
   "mandatory": false,
   "notes": [
-    "Thêm chức năng bỏ qua riêng một phiên bản cập nhật",
-    "Lưu đường dẫn backup vào trạng thái cập nhật",
-    "Tự rollback nếu phiên bản mới không được xác nhận sau khi khởi động lại",
-    "Thêm SHA-256 và dung lượng cho bản backup",
-    "Cải thiện nhật ký và trạng thái Auto Update"
+    "Auto Update Online Test"
   ]
 }
