@@ -3,7 +3,7 @@
   "version": "1.9.3",
   "mandatory": false,
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "",
+  "sha256": "fb9ac744e8028b6d249272be611d179aff91d55df6f1c6006a5cf644c1d16385",
   "notes": [
     "Thêm chức năng tự động kiểm tra cập nhật.",
     "Cải thiện độ ổn định của AK CNC PRO."
