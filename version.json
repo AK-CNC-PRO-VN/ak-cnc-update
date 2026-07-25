@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.3",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "0064e5e85aa667809f4e6d254134a40cdbfa90729bc62c3801ef4c310ce0de8f",
+  "sha256": "446ea167d88509dcb80a94c47dd51ec7b1bd6886e6018a3afc9b9552f83ee83e",
   "mandatory": false,
   "notes": [
     "cập nhật bản mới tự dộng",
