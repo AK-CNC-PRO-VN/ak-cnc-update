@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.6.6",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "952f6ec32aeb2af49c3f91d84ec27972c6e0d6527480a9953a1d065e15811e50",
+  "sha256": "b355f60766afea27cdc9a481a0a9665fb156de02ec2c2c8b7f4ca3347df25304",
   "mandatory": false,
   "notes": [
-    "sửa lỗi đường chạy dao theo hướng ngược chiều kim đồng hồ",
-    "cập nhật mô phỏng đường chạy dao 3d update",
+    "cập nhật danh sách sheet mô phỏng đồng bộ với gcode",
+    "cập nhật mô phỏng đường chạy dao 3d 6 mặt",
     "vui lòng cập nhật bản mới thể thêm tính năng"
   ]
 }
