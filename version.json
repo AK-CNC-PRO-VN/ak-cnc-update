@@ -1,7 +1,7 @@
 {
   "version": "0.1.7.2",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "12b0258008314b96333107524036ac30576e254f87562ca6750c5ddcc90356ea",
+  "sha256": "8da3ca1d92dd3d3551cc7a2bc69a5230b1ca01f9ad01688b212c30d85c604e59",
   "mandatory": false,
   "notes": [
     "FIX LỖI TỰ NHẬN DIỆN HÈM KÍNH, CÁC LOẠI HÈM 2 VÒNG BAO",
