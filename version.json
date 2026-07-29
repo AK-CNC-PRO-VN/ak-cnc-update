@@ -1,11 +1,10 @@
 {
-  "version": "0.1.7.0",
+  "version": "0.1.7.0.1",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "2d65bcab8207864bd2fc79aec1bbfcd30f122d6643f500829dc0292d5c287484",
+  "sha256": "9d0807ad9f8620e72bab42553c20832f8c7afd2adf689c730b025d9780f01520",
   "mandatory": false,
   "notes": [
-    "update fix lỗi chuỗi đường xẻ rãnh",
-    "cập nhật fix lỗi layer có đường kính D3,D5,D6,D8,D10,d15",
+    "FIX LỖ BẢN LỀ, FIX NHẬN DIỆN CẮT INSIDES, OUTSIDES",
     "vui lòng cập nhật bản mới để sửa lỗi"
   ]
 }
