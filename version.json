@@ -1,10 +1,10 @@
 {
-  "version": "0.1.7.2",
+  "version": "0.1.7.3",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "8da3ca1d92dd3d3551cc7a2bc69a5230b1ca01f9ad01688b212c30d85c604e59",
+  "sha256": "f297c049de2ac55360231cddde0fac5884960b397e54b0727dd83fd61ee628d3",
   "mandatory": false,
   "notes": [
-    "FIX LỖI TỰ NHẬN DIỆN HÈM KÍNH, CÁC LOẠI HÈM 2 VÒNG BAO",
-    "THÊM GHIM  GÁN DAO ĐÃ CHỌN KHI CUỘN SÂU XUỐNG VÙNG LAYER"
+    "UPDATE 3D XUẤT DANH SÁCH GCODE",
+    "FIX HIỆN THÔNG BÁO KHI XUẤT GCODE THÀNH CÔNG"
   ]
 }
