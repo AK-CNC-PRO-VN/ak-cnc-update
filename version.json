@@ -1,10 +1,10 @@
 {
-  "version": "0.1.7.3",
+  "version": "0.1.7.4",
   "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "f297c049de2ac55360231cddde0fac5884960b397e54b0727dd83fd61ee628d3",
+  "sha256": "934f95c6feb4b25c1cebeea23e0da5690144662c8bd7fef57c2ab7df86afc1d9",
   "mandatory": false,
   "notes": [
-    "UPDATE 3D XUẤT DANH SÁCH GCODE",
+    "UPDATE AUTO CHỐNG VĂNG TỰ ĐỘNG THÔNG MINH",
     "FIX HIỆN THÔNG BÁO KHI XUẤT GCODE THÀNH CÔNG"
   ]
 }
