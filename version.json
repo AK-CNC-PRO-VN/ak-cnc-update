@@ -1,10 +1,15 @@
 {
-  "version": "0.1.7.5",
-  "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/download/AK_CNC_PRO.rbz",
-  "sha256": "a94c4ca7713706ae416d923eff890312d12a3e39ad38b7b4b95c72bd66fa3428",
+  "product": "AK CNC NESTING",
+  "extension_id": "ak_cnc_complete_suite",
+  "version": "1.0.2",
+  "download_url": "https://ak-cnc-pro-vn.github.io/ak-cnc-update/AK_CNC_NESTING_v1.0.2_RSA_LOCKED_RBE_READY.rbz",
+  "sha256": "b5ccde76664f707b1754011dd5e394ca5e07e4bbf3f456c57d7b97eb819ebc46",
   "mandatory": false,
   "notes": [
-    "UPDATE AUTO CHỐNG VĂNG TỰ ĐỘNG THÔNG MINH",
+    " UPDATE NESTING PRO,DI CHUYỂN TẤM SIÊU NAM CHÂM",
+    " SCALE 6 MẶT PRO KHÔNG GIỚI HẠN, CHỐNG MÉO MÓ BỀ MẶT",
+    " XUẤT DXF NGUYÊN THỦY CHO ASPIRE",
+    " IN TEM PHIÊN BẢN MỚI",
     ""
   ]
 }
