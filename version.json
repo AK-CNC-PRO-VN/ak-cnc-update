@@ -6,10 +6,10 @@
   "sha256": "dbc676bc9422cbcc52d6e7e9eae73af22487330ab27482e2ef19c2a95d871046",
   "mandatory": false,
   "notes": [
-    " UPDATE NESTING PRO,DI CHUYỂN TẤM SIÊU NAM CHÂM",
+    " UPDATE NESTING PRO,THÊM DÁN CẠNH ",
     " SCALE 6 MẶT PRO KHÔNG GIỚI HẠN, CHỐNG MÉO MÓ BỀ MẶT",
-    " XUẤT DXF NGUYÊN THỦY CHO ASPIRE",
-    " IN TEM PHIÊN BẢN MỚI",
+    " GẮN NHÃN PHÁ KHỐI COMPONENT VÀ AUTO COMBINE ",
+    " XOAY NHÃN, ĐẢO MẶT NHÃN, FIX GROUP KÉO GIÃN CHO SCALE",
     
   ]
 }
