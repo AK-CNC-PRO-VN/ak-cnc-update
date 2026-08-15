@@ -1,15 +1,15 @@
 {
   "product": "AK CNC NESTING",
   "extension_id": "ak_cnc_complete_suite",
-  "version": "1.0.8",
-  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO.rbz",
-  "sha256": "dbc676bc9422cbcc52d6e7e9eae73af22487330ab27482e2ef19c2a95d871046",
+  "version": "1.0.9",
+  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.0.9.rbz",
+  "sha256": "7480f9580d64be9e9b8a296b39e48382479a1ac31f750a1ed711b03aa8368a50",
   "mandatory": false,
   "notes": [
-    " UPDATE NESTING PRO,THÊM DÁN CẠNH ",
-    " SCALE 6 MẶT PRO KHÔNG GIỚI HẠN, CHỐNG MÉO MÓ BỀ MẶT",
-    " GẮN NHÃN PHÁ KHỐI COMPONENT VÀ AUTO COMBINE ",
-    " XOAY NHÃN, ĐẢO MẶT NHÃN, FIX GROUP KÉO GIÃN CHO SCALE",
+    " FIX NESTING,DÁN CẠNH, GẮN NHÃN,FIX CÀI ĐẶT THÔNG SỐ TOÀN BỘ CÀI DẶT CHUNG(CHO PHÉP SỐ 0 VÀ ÂM)  ",
+    " CẬP NHẬT TÍNH NĂNG ĐỔI PHÔI TRONG GROUP NESTING CHỈ BẰNG 1 CÚ CLICK CHUỘT ",
+    "  ",
+    "",
     
   ]
 }
