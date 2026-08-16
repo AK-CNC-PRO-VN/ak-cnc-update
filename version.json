@@ -1,7 +1,7 @@
 {
   "product": "AK CNC NESTING",
   "extension_id": "ak_cnc_complete_suite",
-  "version": "1.3.5",
+  "version": "1.3.4",
   "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.3.4.rbz",
   "sha256": "1a763c6ef407786cdef6af6838d6b878250bd7e534e62387040a8d39fe76fc7d",
   "mandatory": false,
