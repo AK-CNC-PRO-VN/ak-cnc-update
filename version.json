@@ -1,9 +1,9 @@
 {
   "product": "AK CNC NESTING",
   "extension_id": "ak_cnc_complete_suite",
-  "version": "1.3.4.1",
-  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.3.4.1.rbz",
-  "sha256": "b4f005aa0f3c87140915b47fdba748ffd6f0403d5a3c9c004283d887c5a99216",
+  "version": "1.3.5",
+  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.3.5.rbz",
+  "sha256": "8c24054adcb656c169cbb0a87aa4574c274bbcb60853d66b4bcc78abf5126039",
   "mandatory": false,
   "notes": [
     " fix nesting sai trục ",
