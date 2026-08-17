@@ -3,7 +3,7 @@
   "extension_id": "ak_cnc_complete_suite",
   "version": "1.3.5",
   "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.3.5.rbz",
-  "sha256": "8c24054adcb656c169cbb0a87aa4574c274bbcb60853d66b4bcc78abf5126039",
+  "sha256": "63ebcea45fefb780b1b35d756b3d92b88c2e04e5041808b28536a2c8336dd8a2",
   "mandatory": false,
   "notes": [
     " fix nesting sai trục ",
