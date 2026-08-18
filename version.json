@@ -1,14 +1,14 @@
 {
   "product": "AK CNC NESTING",
   "extension_id": "ak_cnc_complete_suite",
-  "version": "1.3.5",
-  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.3.5.rbz",
-  "sha256": "63ebcea45fefb780b1b35d756b3d92b88c2e04e5041808b28536a2c8336dd8a2",
+  "version": "1.3.6",
+  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.3.6.rbz",
+  "sha256": "d33023e68f1b742ec3da269f6b33f6ee28ab055b9ca908af80dcd9136a1e9cd2",
   "mandatory": false,
   "notes": [
-    " fix nesting sai trục ",
-    " fix auto layout phóng lớn bản vẽ PDF ",
-    " ",
+    " update auto layout cho hệ tủ hình dạng L,U,loại bỏ nét mờ, dim kích thước có thể tùy chỉnh,view hiệu chỉnh mặc định sketchup( B trái,A giữa ,C phải) ",
+    " thêm tùy chọn xóa liên kết, rãnh,liên kết giao nhau ",
+    " key tự kích out máy hiện tại khi đăng nhập máy mới ",
     "",
     
   ]
