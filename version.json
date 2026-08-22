@@ -1,15 +1,15 @@
 {
   "product": "AK CNC NESTING",
   "extension_id": "ak_cnc_complete_suite",
-  "version": "1.3.6",
-  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.3.6.rbz",
-  "sha256": "d33023e68f1b742ec3da269f6b33f6ee28ab055b9ca908af80dcd9136a1e9cd2",
+  "version": "1.3.7",
+  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.3.7.rbz",
+  "sha256": "7ecc9c0066ac81cb760aed9143b8af1e404430d4881cb4095e6c6c5abc104c31",
   "mandatory": false,
   "notes": [
-    " update auto layout cho hệ tủ hình dạng L,U,loại bỏ nét mờ, dim kích thước có thể tùy chỉnh,view hiệu chỉnh mặc định sketchup( B trái,A giữa ,C phải) ",
-    " thêm tùy chọn xóa liên kết, rãnh,liên kết giao nhau ",
-    " key tự kích out máy hiện tại khi đăng nhập máy mới ",
-    "",
+    " UPDATE TÍNH NĂNG SCAN VECTOR, ",
+    "TÙY CHỌN CÀI ĐẶT IN TEM CHO NGƯỜI DÙNG,  ",
+    " THÊM KÉO TỦ BẢO TOÀN ĐỘ DÀY ",
+    " FIX TOÀN BỘ LỖI, HỢP THỨC HÓA TOÀN BỘ CHO GROUP MIRRO",
     
   ]
 }
