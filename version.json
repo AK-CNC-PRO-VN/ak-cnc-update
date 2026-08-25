@@ -4,12 +4,14 @@
   "version": "1.3.8",
   "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.3.8.rbz",
   "sha256": "56e9485cb9bde8e9ca7bf576e9e62fda216ec4ad21583188b1adc6371ade33da",
+  "edge_banding_core_epoch": 150,
+  "install_channel_epoch": 168,
+  "entrypoint_epoch": 112,
   "mandatory": false,
   "notes": [
-    " UPDATE TÍNH NĂNG THƯ VIỆN CNC, ",
-    "TĂNG TỐC ĐỘ SCAN VECTOR,  ",
-    " TÙY CHỈNH DIM CHO AUTO LAYOUT,  ",
-    " CHỈNH SỬA TO NHỎ CHỮ SỐ DIM KÍCH THƯỚC",
-    
+    "UPDATE TÍNH NĂNG THƯ VIỆN CNC",
+    "TĂNG TỐC ĐỘ SCAN VECTOR",
+    "TÙY CHỈNH DIM CHO AUTO LAYOUT",
+    "CHỈNH SỬA TO NHỎ CHỮ SỐ DIM KÍCH THƯỚC"
   ]
 }
