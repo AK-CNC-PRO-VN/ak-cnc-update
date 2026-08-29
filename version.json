@@ -1,8 +1,8 @@
 {
   "product": "AK CNC NESTING",
   "extension_id": "ak_cnc_complete_suite",
-  "version": "1.3.9",
-  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.3.9.rbz",
+  "version": "1.4.0",
+  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.4.0_THU%20VIEN.rbz",
   "sha256": "53ff5251427802032a3ec12a9196091905ed9188932fcc0361250365e9ec1bbf",
   "edge_banding_core_epoch": 150,
   "install_channel_epoch": 168,
@@ -10,8 +10,8 @@
   "mandatory": false,
   "notes": [
     "UPDATE TÍNH NĂNG THƯ VIỆN CNC",
-    "TĂNG TỐC ĐỘ SCAN VECTOR",
-    "TÙY CHỈNH DIM CHO AUTO LAYOUT",
-    "CHỈNH SỬA TO NHỎ CHỮ SỐ DIM KÍCH THƯỚC"
+    " THÊM THƯ VIỆN TỦ ÁO, ",
+    "TÙY CHỈNH LƯU CÀI ĐẶT CHO THƯ VIỆN TỦ",
+    "C"
   ]
 }
