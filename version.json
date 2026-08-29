@@ -3,7 +3,7 @@
   "extension_id": "ak_cnc_complete_suite",
   "version": "1.4.0",
   "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.4.0_THU%20VIEN.rbz",
-  "sha256": "53ff5251427802032a3ec12a9196091905ed9188932fcc0361250365e9ec1bbf",
+  "sha256": "9547de61393579c5f6fdd0c26fe9de0d7cb6f6b6f30dee206c3edcf600027306",
   "edge_banding_core_epoch": 150,
   "install_channel_epoch": 168,
   "entrypoint_epoch": 112,
