@@ -1,17 +1,17 @@
 {
   "product": "AK CNC NESTING",
   "extension_id": "ak_cnc_complete_suite",
-  "version": "1.4.0",
-  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.4.0_THU%20VIEN.rbz",
-  "sha256": "9547de61393579c5f6fdd0c26fe9de0d7cb6f6b6f30dee206c3edcf600027306",
+  "version": "1.4.2",
+  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.4.2.rbz",
+  "sha256": "5e3b23b3b0f1475f24aba70281601d4fde864087a2d06d1fe1a6d0f5425cd01c",
   "edge_banding_core_epoch": 150,
   "install_channel_epoch": 168,
   "entrypoint_epoch": 112,
   "mandatory": false,
   "notes": [
-    "UPDATE TÍNH NĂNG THƯ VIỆN CNC",
-    " THÊM THƯ VIỆN TỦ ÁO, ",
-    "TÙY CHỈNH LƯU CÀI ĐẶT CHO THƯ VIỆN TỦ",
-    "C"
+    "UPDATE TÍNH NĂNG KHẤU VÁN, KHỬ DAO AUTO",
+    " FIX LỖI NẸP DÁN FIX CẠNH THƯ VIỆN TỦ ÁO,THÊM CỤC HỘC HẦM NGĂN KÉO ",
+    "CHẶN DÁN CẠNH KHƯ KHẤU ÂM DƯƠNG",
+    "SỬA NESTING ĐỒNG BỘ ABF"
   ]
 }
