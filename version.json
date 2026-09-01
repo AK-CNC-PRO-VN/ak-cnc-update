@@ -5,8 +5,8 @@
   "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1.4.2.rbz",
   "sha256": "5e3b23b3b0f1475f24aba70281601d4fde864087a2d06d1fe1a6d0f5425cd01c",
   "edge_banding_core_epoch": 150,
-  "install_channel_epoch": 168,
-  "entrypoint_epoch": 112,
+  "install_channel_epoch": 169,
+  "entrypoint_epoch": 119,
   "mandatory": false,
   "notes": [
     "UPDATE TÍNH NĂNG KHẤU VÁN, KHỬ DAO AUTO",
