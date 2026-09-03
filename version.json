@@ -8,10 +8,9 @@
   "install_channel_epoch": 169,
   "entrypoint_epoch": 119,
   "mandatory": false,
-  "notes": [
-    "mở tính năng đảo mặt liên kết",
-    " mở tính năng mô phỏng gcode ",
-    "",
-    " sửa lỗi không tương thích ABF"
-  ]
+ "notes": [
+  "Mở tính năng đảo mặt liên kết",
+  "Mở tính năng mô phỏng G-code 3D",
+  "Sửa lỗi không tương thích ABF"
+]
 }
