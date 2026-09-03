@@ -9,9 +9,9 @@
   "entrypoint_epoch": 119,
   "mandatory": false,
   "notes": [
-    "UPDATE TÍNH NĂNG KHẤU VÁN, KHỬ DAO AUTO",
-    " FIX LỖI NẸP DÁN FIX CẠNH THƯ VIỆN TỦ ÁO,THÊM CỤC HỘC HẦM NGĂN KÉO ",
-    "CHẶN DÁN CẠNH KHƯ KHẤU ÂM DƯƠNG",
-    "SỬA NESTING ĐỒNG BỘ ABF"
+    "mở tính năng đảo mặt liên kết",
+    " mở tính năng mô phỏng gcode ",
+    "",
+    " sửa lỗi không tương thích ABF"
   ]
 }
