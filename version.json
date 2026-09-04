@@ -1,16 +1,17 @@
 {
   "product": "AK CNC NESTING",
   "extension_id": "ak_cnc_complete_suite",
-  "version": "1.4.",
+  "version": "1.4.4",
   "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1_4_4.rbz",
   "sha256": "8609831b06f7a28127f508d93953adda8ecef510a7af2354a136e470e8d60e92",
   "edge_banding_core_epoch": 150,
   "install_channel_epoch": 169,
   "entrypoint_epoch": 119,
   "mandatory": false,
- "notes": [
-  "Mở tính năng đảo mặt liên kết",
-  "Mở tính năng mô phỏng G-code 3D",
-  "Sửa lỗi không tương thích ABF"
+  "notes": [
+  "TĂNG HIỆU NĂNG KHI DÙNG SCALE PRO, GIẢM GIẬT LAG,",
+  "FIX DI CHUYỂN TẤM GIẬT LAG,TĂNG HIỆU NĂNG VÀ HIỆU CHỈNH TÍNH NĂNG ĐỔI MẶT TRƯỚC RA SAU VÀ NGƯỢC LẠI",
+  "AUTO LAYOUT THÊM TÙY CHỌN MẶT CẮT THỦ CÔNG"
+  "GCODE: CHẶN XUẤT FILE KHI CHƯA GÁN DAO,TÙY CHỌN LƯU/NẠP DAO MẪU"
 ]
 }
