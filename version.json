@@ -1,17 +1,17 @@
 {
   "product": "AK CNC NESTING",
   "extension_id": "ak_cnc_complete_suite",
-  "version": "1.4.5",
-  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1_4_5.rbz",
-  "sha256": "857a6aed58b70f93581c44a0c1119eae081fe8de3c53e62e1d6a68224da327c8",
+  "version": "1.4.6",
+  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1_4_6.rbz",
+  "sha256": "f832632a1a90c2fccbd621116281e840a630be5cbb4dd3483bb2b7fd47b4b8a4",
   "edge_banding_core_epoch": 150,
   "install_channel_epoch": 169,
   "entrypoint_epoch": 119,
   "mandatory": false,
   "notes": [
-  "TĂNG HIỆU NĂNG KHI DÙNG SCALE PRO, GIẢM GIẬT LAG,",
-  "FIX DI CHUYỂN TẤM GIẬT LAG,TĂNG HIỆU NĂNG VÀ HIỆU CHỈNH TÍNH NĂNG ĐỔI MẶT TRƯỚC RA SAU VÀ NGƯỢC LẠI",
-  "AUTO LAYOUT THÊM TÙY CHỌN MẶT CẮT THỦ CÔNG",
-  "GCODE: CHẶN XUẤT FILE KHI CHƯA GÁN DAO,TÙY CHỌN LƯU/NẠP DAO MẪU",
+  "thêm thuật toán gcode auto chống bay ván,",
+  fix lỗi bản lề chén",
+  "thêm tính năng vẽ huỳnh cánh,và thuật toán khử góc cho dao vbit",
+  "GCODE: xóa đường dao khi không cần xuất ",
 ]
 }
