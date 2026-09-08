@@ -10,7 +10,7 @@
   "mandatory": false,
   "notes": [
   "thêm thuật toán gcode auto chống bay ván,",
-  fix lỗi bản lề chén",
+  "fix lỗi bản lề chén,",
   "thêm tính năng vẽ huỳnh cánh,và thuật toán khử góc cho dao vbit",
   "GCODE: xóa đường dao khi không cần xuất ",
 ]
