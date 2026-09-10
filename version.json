@@ -7,11 +7,11 @@
   "edge_banding_core_epoch": 150,
   "install_channel_epoch": 169,
   "entrypoint_epoch": 119,
-  "mandatory": false,
+  "mandatory": true,
   "notes": [
-  "thêm thuật toán gcode auto chống bay ván,",
-  "update chức năng đổ vật liệu An Cường online,",
-  "thêm tính năng vẽ huỳnh cánh,và thuật toán khử góc cho dao vbit",
-  "update biên dạng dao vào đúng khuôn mẫu ",
-]
+    "Thêm thuật toán GCODE auto chống bay ván",
+    "Cập nhật chức năng đổ vật liệu An Cường online",
+    "Thêm tính năng vẽ huỳnh cánh và thuật toán khử góc cho dao V-bit",
+    "Cập nhật biên dạng dao vào đúng khuôn mẫu"
+  ]
 }
