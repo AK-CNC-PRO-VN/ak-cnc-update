@@ -1,17 +1,17 @@
 {
   "product": "AK CNC NESTING",
   "extension_id": "ak_cnc_complete_suite",
-  "version": "1.4.6",
-  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1_4_6.rbz",
-  "sha256": "f832632a1a90c2fccbd621116281e840a630be5cbb4dd3483bb2b7fd47b4b8a4",
+  "version": "1.4.7",
+  "download_url": "https://github.com/AK-CNC-PRO-VN/ak-cnc-update/raw/refs/heads/main/download/AK_NESTING_PRO_v1_4_7.rbz",
+  "sha256": "84d686a6653019c02523a3439aa1de3d07dbccbcaa890f55543b7ea9fb4a2feb",
   "edge_banding_core_epoch": 150,
   "install_channel_epoch": 169,
   "entrypoint_epoch": 119,
   "mandatory": false,
   "notes": [
   "thêm thuật toán gcode auto chống bay ván,",
-  "fix lỗi bản lề chén,",
+  "update chức năng đổ vật liệu An Cường online,",
   "thêm tính năng vẽ huỳnh cánh,và thuật toán khử góc cho dao vbit",
-  "GCODE: xóa đường dao khi không cần xuất ",
+  "update biên dạng dao vào đúng khuôn mẫu ",
 ]
 }
